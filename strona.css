@@ -8,3 +8,8 @@ h1{
 color: azure;
 text-align: center;
 }
+p{
+    margin: 10%;
+    line-height: 10%;
+    text-indent: 5%;
+}
