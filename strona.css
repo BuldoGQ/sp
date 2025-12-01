@@ -13,3 +13,7 @@ p{
     line-height: 10%;
     text-indent: 5%;
 }
+ul{
+    padding: 70px;
+    list-style-type: decimal-leading-zero;
+}
